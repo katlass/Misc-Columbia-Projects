@@ -1,7 +1,7 @@
 # Space Optimized CNN with Synchronous Distributed Training, Weight Pruning, and Quantization in Vertex AI on GCP with TensorFlow Lite
 
 **A description of the project**  <br> 
-Developed a space optimized CNN for image classification through the strategies listed above.
+Developed several space optimized CNNs for image classification through the strategies listed above while trying more shallow resnet20 and deeper resnet44 with various sparsity decaying strategies and data augmentation. The best model is then selected for use.
 
 
 **A description of the repository** <br>
