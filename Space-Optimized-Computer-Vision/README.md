@@ -1,6 +1,5 @@
 # A space optimized CNN developed through synchronous distributed training, weight pruning, and quantization in Vertex AI on GCP
-
-## Weight Pruning and Distributed DL for Space Efficiency with TensorFlow Lite
+### Weight Pruning and Distributed DL for Space Efficiency with TensorFlow Lite
 
 **A description of the project**  <br> 
 We develop a space optimized CNN for image classification through synchronous distributed training, weight pruning, and quantization in Vertex AI on Google Cloud Platform.
